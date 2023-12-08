@@ -1,0 +1,9 @@
+/* SELETOR UNIVERSAL */
+*{
+    border: 1px solid red;
+}
+
+/* SELETOR DE TEXTO */
+h1{
+    color: green;
+}
